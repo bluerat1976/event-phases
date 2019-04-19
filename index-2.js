@@ -17,8 +17,10 @@ for(var i = 0; i < arr.length; i = i + 2) {
     console.log('arr with index ', i, ' = ', arr[i]);
 }
 console.log('other cycles');
-forEach,
-for( in ),
+
+//cycles:
+//forEach,
+//for( in )
 
 // cycle while
 console.log('while')
